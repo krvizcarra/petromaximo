@@ -771,7 +771,7 @@ section {
 }
 
 .why-us .icon-box:hover .icon {
-  background: #68A4C4;
+  background: #68a4c452;
 }
 
 .why-us .icon-box:hover .icon i {
@@ -2353,4 +2353,20 @@ background-color: #68A4C4;
 
 #footer .credits a {
   color: #a2cce3;
+}
+
+/* Dev */
+
+.text-justify {
+  text-align: justify;
+}
+
+.img-val {
+  max-width: 60% !important;
+}
+
+.valores{
+  color:#ff689b;
+  font-size: 40px;
+  padding-top: 0px !important;
 }

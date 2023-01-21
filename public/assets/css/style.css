@@ -771,7 +771,8 @@ section {
 }
 
 .why-us .icon-box:hover .icon {
-  background: #68A4C4;
+  background: #68a4c452;
+  /* background: #68A4C4; */
 }
 
 .why-us .icon-box:hover .icon i {
@@ -2354,7 +2355,7 @@ background-color: #68A4C4;
   color: #a2cce3;
 }
 
-/* Customer */
+/* Customer Dev*/
 
 .button {
   
@@ -2395,4 +2396,26 @@ background-color: #68A4C4;
 .button:hover span:after {
   opacity: 1;
   right: 0;
+}
+
+/* Dev */
+
+.text-justify {
+  text-align: justify;
+}
+
+
+.img-val {
+  max-width: 60% !important;
+}
+
+.val1{
+  color:#ff689b;
+  font-size: 40px;
+  padding-top: 0px !important;
+}
+.val2{
+  color:#3fcdc7;
+  font-size: 40px;
+  padding-top: 0px !important;
 }

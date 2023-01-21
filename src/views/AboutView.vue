@@ -7,7 +7,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Quienes somos</h2>
+          <h2></h2>
           <ol>
             <li><router-link :to="{ name: 'home' }">Inicio</router-link></li>
             <li>Nosotros</li>
@@ -47,84 +47,57 @@
             </p> -->
           </div>
         </div>
-
+        <h2 style="    
+    position: fixed;    
+    left: 50%;
+    transform: translate(-50%, 230%);">Valores</h2>
       </div>
+
     </section><!-- End About Section -->
 
-    <!-- ======= Facts Section ======= -->
-    <!-- <section class="facts section-bg" data-aos="fade-up">
+    <!-- ======= Services Section ======= -->
+    <!-- <section class="services section-bg" style="padding-top:100px">
       <div class="container">
 
-        <div class="row counters">
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
-              class="purecounter"></span>
-            <p>Clients</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
-              class="purecounter"></span>
-            <p>Projects</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1"
-              class="purecounter"></span>
-            <p>Hours Of Support</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
-              class="purecounter"></span>
-            <p>Hard Workers</p>
-          </div>
-
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Facts Section -->
-
-    <!-- ======= Our Skills Section ======= -->
-    <!-- <section class="skills" data-aos="fade-up">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Our Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-            in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="skills-content">
-
-          <div class="progress">
-            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0"
-              aria-valuemax="100">
-              <span class="skill">HTML <i class="val">100%</i></span>
+        <div class="row">
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="icon-box icon-box-pink">
+              
+              <div class="icon ">
+                <img src="assets/img/about/responsabilidad.png" class="img-fluid img-val" alt="">
+              
+              </div>
+              <h4 class="title"><a href="">Responsabilidad</a></h4>
+              <p class="description"></p>
             </div>
           </div>
 
-          <div class="progress">
-            <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0"
-              aria-valuemax="100">
-              <span class="skill">CSS <i class="val">90%</i></span>
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon-box icon-box-cyan">
+              <div class="icon">
+                <img src="assets/img/about/respeto.png" class="img-fluid img-val" alt="">
+              </div>
+              <h4 class="title"><a href="">Respeto</a></h4>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                dolore eu fugiat nulla pariatur</p>
             </div>
           </div>
 
-          <div class="progress">
-            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0"
-              aria-valuemax="100">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box icon-box-green">
+              <div class="icon"><img src="assets/img/about/compromiso.png" class="img-fluid img-val" alt=""></div>
+              <h4 class="title"><a href="">Compromiso</a></h4>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+                officia deserunt mollit anim id est laborum</p>
             </div>
           </div>
 
-          <div class="progress">
-            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0"
-              aria-valuemax="100">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box icon-box-blue">
+              <div class="icon"><img src="assets/img/about/humildad.png" class="img-fluid img-val" alt=""></div>
+              <h4 class="title"><a href="">Humilda</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                blanditiis praesentium voluptatum deleniti atque</p>
             </div>
           </div>
 
@@ -132,87 +105,100 @@
 
       </div>
     </section> -->
-    <!-- End Our Skills Section  -->
+    <!-- End Services Section -->
 
-    <!-- ======= Tetstimonials Section ======= -->
-    <!-- <section class="testimonials" data-aos="fade-up">
+    <!-- ======= Why Us Section ======= -->
+    <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
       <div class="container">
 
-        <div class="section-title">
-          <h2>Tetstimonials HOLA MUNDO{{ currentRouteName }}</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-            in iste officiis commodi quidem hic quas.</p>
+        <div class="row">
+          <div class="col-lg-6 video-box">
+            <img src="assets/img/about/valores.jpg" class="img-fluid" alt="">
+            <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
+              data-autoplay="true"></a> -->
+          </div>
+
+          <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
+
+            <div class="icon-box">
+              <div class="icon"><img src="assets/img/about/responsabilidad.png" class="img-fluid img-val" alt=""></div>
+              <h4 class="title"><a href="">Responsabilidad</a></h4>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias
+                excepturi sint occaecati cupiditate non provident</p>
+            </div>
+
+            <div class="icon-box">
+              <div class="icon"><img src="assets/img/about/respeto.png" class="img-fluid img-val" alt=""></div>
+              <h4 class="title"><a href="">Respeto</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                blanditiis praesentium voluptatum deleniti atque</p>
+            </div>
+
+            <div class="icon-box">
+              <div class="icon"><img src="assets/img/about/compromiso.png" class="img-fluid img-val" alt=""></div>
+              <h4 class="title"><a href="">Compromiso</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                blanditiis praesentium voluptatum deleniti atque</p>
+            </div>
+
+            <div class="icon-box">
+              <div class="icon"><img src="assets/img/about/humildad.png" class="img-fluid img-val" alt=""></div>
+              <h4 class="title"><a href="">Humildad</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                blanditiis praesentium voluptatum deleniti atque</p>
+            </div>
+
+          </div>
         </div>
 
-        <div class="testimonials-carousel swiper">
-          <div class="swiper-wrapper">
-            <div class="testimonial-item swiper-slide">
-              <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-              <h3>Saul Goodman</h3>
-              <h4>Ceo &amp; Founder</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium
-                quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
+      </div>
+    </section>
+    <!-- End Why Us Section -->
 
-            <div class="testimonial-item swiper-slide">
-              <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-              <h3>Sara Wilsson</h3>
-              <h4>Designer</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
-                quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
+    <!-- ======= Service Details Section ======= -->
+    <section class="service-details">
+      <div class="container">
 
-            <div class="testimonial-item swiper-slide">
-              <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-              <h3>Jena Karlis</h3>
-              <h4>Store Owner</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor
-                labore quem eram duis noster aute amet eram fore quis sint minim.
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-
-            <div class="testimonial-item swiper-slide">
-              <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-              <h3>Matt Brandon</h3>
-              <h4>Freelancer</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim
-                dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-
-            <div class="testimonial-item swiper-slide">
-              <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-              <h3>John Larson</h3>
-              <h4>Entrepreneur</h4>
-              <p>
-                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa
-                labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
+        <div class="row">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/about/Mision.jpg" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"><a href="#">Misión</a></h5>
+                <p class="card-text text-justify">Somos un grupo de emprendedores con la filosofía de hacer el bien y
+                  con la misión
+                  de desarrollar un modelo de comercialización basado en el factor humano, con una oferta integral
+                  única. Con la firme intención de crear un sano desarrollo en la industria de los hidrocarburos.
+                  Aportando a la soberanía del país con la importación, comercialización y distribución a través de
+                  todos los modelos de negocio.</p>
+              </div>
             </div>
           </div>
-          <div class="swiper-pagination"></div>
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/about/Vision.jpg" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"><a href="#">Visión</a></h5>
+                <p class="card-text text-justify">Nacimos con el deseo de ser un referente en México como fuerza
+                  vinculadora. Con la potencia y empuje en nuestro ADN, para establecer un vínculo comercial con al
+                  menos el 70% de la industria de los hidrocarburos en el país.</p>
+
+              </div>
+            </div>
+
+          </div>
+
+
         </div>
 
-      </div> 
-    </section>-->
-    <!-- End Ttstimonials Section -->
+      </div>
+    </section><!-- End Service Details Section -->
+
+
 
   </main><!-- End #main -->
 
@@ -223,6 +209,7 @@
 
 <script>
 import { mapState } from "vuex";
+import { Icon } from '@iconify/vue';
 
 import { defineAsyncComponent } from '@vue/runtime-core';
 export default {
@@ -230,15 +217,14 @@ export default {
   components: {
     Header: defineAsyncComponent(() => import('../components/Header.vue')),
     Footer: defineAsyncComponent(() => import('../components/Footer.vue')),
+    Icon,
   },
   mounted() {
     window.scrollTo(0, 0),
       document.title = 'PetroMaximo - Nosotros'
-    // let selectHeader = select("#header");
-    // selectHeader.classList.add("header-transparent");
+
   },
   setup() {
-    // console.log(this.$el);
 
     // /**
     //    * Easy selector helper function
