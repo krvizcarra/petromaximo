@@ -7,7 +7,7 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Petro Maximo</h2>
+          <h2 class="animate__animated animate__fadeInDown">PetroMaximo</h2>
           <p class="animate__animated animate__fadeInUp">
           <h4>Empresa líder en la comercialización de hidro carburos en el
             país.</h4>
@@ -52,7 +52,7 @@
   <main id="main">
 
     <!-- ======= Services Section ======= -->
-    <section class="services">
+    <!-- <section class="services">
       <div class="container">
 
         <div class="row">
@@ -95,22 +95,52 @@
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section> -->
+    <!-- End Services Section -->
 
     <!-- ======= Why Us Section ======= -->
-    <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
+    <section class="about why-us section-bg" data-aos="fade-up" date-aos-delay="200">
       <div class="container">
-
+        <div class="section-title">
+          <h2 style="padding-top: 20px;">Cobertura</h2>
+          <p>Estamos cada vez mas cercas de nuestros clientes, cubriendo gran parte del territorio nacional.</p>
+        </div>
         <div class="row">
           <div class="col-lg-6 video-box">
-            <img src="assets/img/why-us.jpg" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
-              data-autoplay="true"></a>
+            <img src="assets/img/home/presencia.jpg" class="img-fluid" alt="">
+            <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
+              data-autoplay="true">
+            </a> -->
           </div>
 
           <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
+            <div class="columna1">
+              <ul>
+                <li><i class=" bi bi-check2-circle"></i> Baja California.</li>
+                <li><i class="bi bi-check2-circle"></i> Sonora.</li>
+                <li><i class="bi bi-check2-circle"></i> Chihuahua.</li>
+                <li><i class="bi bi-check2-circle"></i> Coahuila.</li>
+                <li><i class="bi bi-check2-circle"></i> Nuevo León.</li>
+                <li><i class="bi bi-check2-circle"></i> Durango.</li>
+              </ul>
 
-            <div class="icon-box">
+            </div>
+
+            <div class="columna2">
+              <ul>
+                <li><i class="bi bi-check2-circle"></i> Jalisco.</li>
+                <li><i class="bi bi-check2-circle"></i> San Luis Potosí.</li>
+                <li><i class="bi bi-check2-circle"></i> Guanajuato.</li>
+                <li><i class="bi bi-check2-circle"></i> Queretaro.</li>
+                <li><i class="bi bi-check2-circle"></i> Puebla.</li>
+                <li><i class="bi bi-check2-circle"></i> Ciudad de Mexico.</li>
+              </ul>
+
+            </div>
+
+
+
+            <!-- <div class="icon-box">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
               <h4 class="title"><a href="">Lorem Ipsum</a></h4>
               <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
@@ -122,7 +152,7 @@
               <h4 class="title"><a href="">Nemo Enim</a></h4>
               <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
                 praesentium voluptatum deleniti atque</p>
-            </div>
+            </div> -->
 
           </div>
         </div>
@@ -131,19 +161,17 @@
     </section><!-- End Why Us Section -->
 
     <!-- ======= Features Section ======= -->
-    <section class="features">
+    <!-- <section class="features">
       <div class="container">
 
         <div class="section-title">
-          <h2>Features</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-            in iste officiis commodi quidem hic quas.</p>
+          <h2>Cobertura</h2>
+          <p>Estamos cada vez mas cercas de nuestros clientes, cubriendo gran parte del territorio nacional.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/features-1.svg" class="img-fluid" alt="">
+            <img src="assets/img/home/presencia.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4">
             <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
@@ -157,9 +185,9 @@
               <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
             </ul>
           </div>
-        </div>
+        </div> -->
 
-        <div class="row" data-aos="fade-up">
+    <!-- <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
             <img src="assets/img/features-2.svg" class="img-fluid" alt="">
           </div>
@@ -213,10 +241,11 @@
               culpa qui officia deserunt mollit anim id est laborum
             </p>
           </div>
-        </div>
+        </div> -->
 
-      </div>
-    </section><!-- End Features Section -->
+    <!-- </div>
+    </section> -->
+    <!-- End Features Section -->
 
   </main><!-- End #main -->
 

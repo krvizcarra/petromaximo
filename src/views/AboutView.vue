@@ -47,28 +47,32 @@
             </p> -->
           </div>
         </div>
-        <h2 style="    
+        <!-- <h2 style="    
     position: fixed;    
     left: 50%;
-    transform: translate(-50%, 230%);">Valores</h2>
+    transform: translate(-50%, 230%);">Valores</h2> -->
       </div>
 
     </section><!-- End About Section -->
 
     <!-- ======= Services Section ======= -->
-    <!-- <section class="services section-bg" style="padding-top:100px">
+    <section class="services section-bg" style="padding-top:100px">
       <div class="container">
+        <div class="section-title">
+          <h2>Valores</h2>
+        </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box icon-box-pink">
-              
+
               <div class="icon ">
                 <img src="assets/img/about/responsabilidad.png" class="img-fluid img-val" alt="">
-              
+
               </div>
               <h4 class="title"><a href="">Responsabilidad</a></h4>
-              <p class="description"></p>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                dolore eu fugiat nulla pariatur</p>
             </div>
           </div>
 
@@ -104,18 +108,17 @@
         </div>
 
       </div>
-    </section> -->
+    </section>
     <!-- End Services Section -->
 
     <!-- ======= Why Us Section ======= -->
-    <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
+    <!-- <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
       <div class="container">
 
         <div class="row">
           <div class="col-lg-6 video-box">
             <img src="assets/img/about/valores.jpg" class="img-fluid" alt="">
-            <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
-              data-autoplay="true"></a> -->
+       
           </div>
 
           <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
@@ -152,7 +155,7 @@
         </div>
 
       </div>
-    </section>
+    </section> -->
     <!-- End Why Us Section -->
 
     <!-- ======= Service Details Section ======= -->

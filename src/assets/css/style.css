@@ -2370,3 +2370,18 @@ background-color: #68A4C4;
   font-size: 40px;
   padding-top: 0px !important;
 }
+
+.columna1 {
+  position:absolute;
+  /* top:0px; */
+  left:auto;
+  width:200px;
+  margin-top:10px;
+  /* background-color:#ffff55; */
+  }
+  .columna2 {
+  margin-left:300px;
+  margin-right:20px;
+  margin-top:10px;
+  /* background-color:#ffffbb; */
+  }

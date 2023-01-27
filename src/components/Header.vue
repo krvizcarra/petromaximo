@@ -15,15 +15,12 @@
                     <li><router-link :to="{ name: 'about' }">Nosotros</router-link></li>
                     <li><router-link :to="{ name: 'services' }">Servicios</router-link></li>
                     <li><router-link :to="{ name: 'quote' }">Cotizar</router-link></li>
-                    <li><button class="button" style="vertical-align:middle;margin-left: 20px;"><span>Portal clientes
-                            </span></button></li>
+                    <li>
+                        <button class="button" style="vertical-align:middle;margin-left: 20px;"><span>Portal clientes
+                            </span></button>
+                    </li>
                 </ul>
-                <!-- <router-link :to="{ name: 'home' }">Inicio</router-link>
-        <router-link :to="{ name: 'about' }">Nosotros</router-link>
-        <router-link :to="{ name: 'about' }">Servicios</router-link>
-        <router-link :to="{ name: 'about' }">Clientes</router-link>
-        <button type="button" class="btn btn-outline-info">Info</button> -->
-
+                <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
 
         </div>
