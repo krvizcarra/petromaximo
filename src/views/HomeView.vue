@@ -9,7 +9,9 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Grupo PetroMaximo</h2>
           <p class="animate__animated animate__fadeInUp">
-          <h4> Tu empresa de comercialización de hidrocarburos en México.</h4>
+          <h4> Tu empresa de comercialización de hidrocarburos en México. Comprometidos con la mejora continúa,
+            con mira en la excelencia de servicio, calidad, legalidad y precio. 
+          </h4>
           </p>
           <!-- <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a> -->
         </div>
@@ -31,7 +33,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Filosofia PetroMaximo</h2>
           <p class="animate__animated animate__fadeInUp">
-          <h4>Detras de cada litro, hay muchas vidas.</h4>
+          <h4>Convencidos que el factor humano es lo más valioso. Detras de cada litro, hay muchas vidas.</h4>
           </p>
         </div>
       </div>

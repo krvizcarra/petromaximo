@@ -38,8 +38,8 @@
 
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-gas-pump"></i></div>
-                            <p class="description">Contamos con 2 modaliades: entregamos el producto hasta su sitio
-                                estación ó usted pasa por el producto.</p>
+                            <p class="description">Contamos con 2 modalidades: entregamos el producto hasta su patio o estación
+                                 de servicio y libre abordo (LAB),  usted mismo puede pasar a cargar el producto.</p>
                         </div>
 
                     </div>

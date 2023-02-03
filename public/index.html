@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <link rel="icon" href="<%= BASE_URL %>logopm.png">
     <title><%= htmlWebpackPlugin.options.title %></title>
 
      <!-- Google Fonts -->
@@ -21,9 +21,82 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+
+  <style>
+    span{
+        color: #ffcc00; 
+    }
+    h1{
+        color: #4e4a4a !important;
+        font-size: larger !important;
+        font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    }
+    .logo img {
+        width: 60%;
+        height: auto;
+    }
+    .logo{
+        text-align:center;
+    }
+    
+    
+    
+    @media (min-width:768px){
+    
+    .movil{
+        display:none !important;
+    }
+    
+    }
+    
+    @media (max-width:768px){
+     .logo img {
+        margin-top: 30%;
+        width: 90%;
+        height: auto;
+    }
+    .logo{
+        text-align:center;
+    }
+    
+    .web{
+        display:none;
+    }
+    
+    }
+    
+    
+    .btn-whatsapp {
+        display:block;
+        width:70px;
+        height:70px;
+        color:#fff;
+        position: fixed;
+        right:20px;
+        bottom:20px;
+        border-radius:50%;
+        line-height:80px;
+        text-align:center;
+        z-index:999;
+        }
+    
+    </style>
+    
   </head>
   <body>   
     <div id="app"></div>
+
+    <div class="btn-whatsapp web">
+        <a href="https://web.whatsapp.com/send/?phone=+526674140065&text&type=phone_number&app_absent=0" target="_blank">
+        <img src="http://s2.accesoperu.com/logos/btn_whatsapp.png" alt="">
+        </a>
+    </div>
+    
+    <div class="btn-whatsapp movil">
+        <a href="https://wa.me/+526674140065" target="_blank">
+        <img src="http://s2.accesoperu.com/logos/btn_whatsapp.png" alt="">
+        </a>
+    </div>
     <!-- built files will be auto injected -->
   </body>
 
