@@ -32,13 +32,13 @@
 
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-world"></i></div>
-                            <p class="description">Comercializamos combustibles nacionales e internacional. Por toda la
+                            <p class="description">Comercializamos combustibles nacionales e importados. Por toda la
                                 republica mexicana.</p>
                         </div>
 
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-gas-pump"></i></div>
-                            <p class="description">Contamos con 2 modaliades, colocamos el producto hasta su sitio o
+                            <p class="description">Contamos con 2 modaliades: entregamos el producto hasta su sitio
                                 estación ó usted pasa por el producto.</p>
                         </div>
 
@@ -135,10 +135,24 @@
                                 <img src="assets/img/services/administracion.jpg" alt="...">
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title"><a href="#">Asesoria</a></h5>
-                                <p class="card-text">Tambien contamos con asesorias para sus estaciones de sercivio,
-                                    mejorando procesos y servicios. Así como asesorias con SOFOM, reducción en
-                                    comisiones bancarias. </p>
+                                <h5 class="card-title"><a href="#">Asesoria crediticia</a></h5>
+                                <p class="card-text">Contamos con asesoría integral para la obtención crediticia,
+                                     a través de una SOFOM, la cual brinda el respaldo capital para distribuir y 
+                                     administrar de mejor manera sus recursos.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+                        <div class="card">
+                            <div class="card-img">
+                                <img src="assets/img/services/trabajo_gasolinera.png" alt="...">
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title"><a href="#">Capacitación a personal en estaciones de servicio</a></h5>
+                                <p class="card-text"> Proporcionamos capacitación a personal de piso para mejorar la atención 
+                                    al cliente, aumentar la venta de aceites y aditivos, asi como mejorar la percepción de ingresos. </p>
 
                             </div>
                         </div>

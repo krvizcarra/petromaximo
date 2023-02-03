@@ -26,12 +26,12 @@
             <img src="assets/img/about/img7.jpg" style="    width: -webkit-fill-available;" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <h3>Grupo Petro Maximo</h3>
+            <h3>Grupo PetroMaximo</h3>
             <p class="fw-light">
-              Somos una empresa joven y dinámica dedicada a la comercialización de Diésel enfocada al mercado nacional
-              de autoconsumos y estaciones de servicio que otorga ideas nuevas con servicios de valor agregado,
-              rompiendo
-              los paradigmas de la comercialización tradicional bajo un modelo de negocio más humano y cercano a
+              Somos una empresa joven y dinámica dedicada a la comercialización de hidrocarburos, enfocada al mercado nacional
+              de autoconsumos y estaciones de servicio que otorga ideas nuevas con servicios de valor agregado.
+              Rompiendo
+              los paradigmas de la comercialización tradicional, bajo un modelo de negocio más humano y cercano a
               nuestros socios comerciales.
             </p>
             <ul>
@@ -63,45 +63,45 @@
         </div>
 
         <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="icon-box icon-box-pink">
+          <div class="col-md-6 col-lg-3 align-items-stretch" data-aos="fade-up" style="width: 25% !important;">
+            <div class="icon-box icon-box-pink" style="width: 100% !important;">
 
               <div class="icon ">
                 <img src="assets/img/about/responsabilidad.png" class="img-fluid img-val" alt="">
 
               </div>
               <h4 class="title"><a href="">Responsabilidad</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur</p>
+              <!-- <p class="description" style="visibility: hidden;">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                dolore eu fugiat nulla pariatur</p> -->
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-6 col-lg-3 align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon">
                 <img src="assets/img/about/respeto.png" class="img-fluid img-val" alt="">
               </div>
               <h4 class="title"><a href="">Respeto</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur</p>
+              <!-- <p class="description" style="visibility: hidden;">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                dolore eu fugiat nulla pariatur</p> -->
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-6 col-lg-3 align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-green">
               <div class="icon"><img src="assets/img/about/compromiso.png" class="img-fluid img-val" alt=""></div>
               <h4 class="title"><a href="">Compromiso</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                officia deserunt mollit anim id est laborum</p>
+              <!-- <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+                officia deserunt mollit anim id est laborum</p> -->
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-blue">
               <div class="icon"><img src="assets/img/about/humildad.png" class="img-fluid img-val" alt=""></div>
               <h4 class="title"><a href="">Humilda</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                blanditiis praesentium voluptatum deleniti atque</p>
+              <!-- <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                blanditiis praesentium voluptatum deleniti atque</p> -->
             </div>
           </div>
 

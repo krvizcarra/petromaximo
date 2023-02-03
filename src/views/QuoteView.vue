@@ -168,7 +168,7 @@
                                 <div class="error-message"></div>
                                 <div class="sent-message">Your message has been sent. Thank you!</div>
                             </div>
-                            <div class="text-center"><button type="submit">Enviar</button></div>
+                            <div class="text-center"><button :disabled="enviar" v-on:click="enviarCorreo()" type="submit">Enviar</button></div>
                         </form>
                     </div>
 
@@ -185,16 +185,36 @@
 
 <script>
 import { defineAsyncComponent } from '@vue/runtime-core';
+import axios from 'axios'
+
 export default {
 
     components: {
         Header: defineAsyncComponent(() => import('../components/Header.vue')),
         Footer: defineAsyncComponent(() => import('../components/Footer.vue')),
     },
+    data() {
+        return {
+            enviar: false
+        }
+    },
     mounted() {
         window.scrollTo(0, 0),
             document.title = 'PetroMaximo - Cotizar'
     },
+    methods:{
+        async enviarCorreo() {
+            this.enviar = true;
+            
+            const response = await axios.post('http://localhost/api/correos/enviar',{
+                
+            })
+            this.enviar = false;
+
+            console.log(response);
+            // this.catFacts = catFactsResponse.data
+        },
+    }
 
 }
 </script>

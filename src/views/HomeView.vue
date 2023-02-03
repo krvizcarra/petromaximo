@@ -7,10 +7,9 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">PetroMaximo</h2>
+          <h2 class="animate__animated animate__fadeInDown">Grupo PetroMaximo</h2>
           <p class="animate__animated animate__fadeInUp">
-          <h4>Empresa líder en la comercialización de hidro carburos en el
-            país.</h4>
+          <h4> Tu empresa de comercialización de hidrocarburos en México.</h4>
           </p>
           <!-- <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a> -->
         </div>
@@ -26,6 +25,17 @@
           </p>
         </div>
       </div>
+
+      <!-- Slide 3-->
+      <div class="carousel-item">
+        <div class="carousel-container">
+          <h2 class="animate__animated animate__fadeInDown">Filosofia PetroMaximo</h2>
+          <p class="animate__animated animate__fadeInUp">
+          <h4>Detras de cada litro, hay muchas vidas.</h4>
+          </p>
+        </div>
+      </div>
+
 
       <!-- Slide 3 -->
       <!-- <div class="carousel-item">
@@ -103,7 +113,7 @@
       <div class="container">
         <div class="section-title">
           <h2 style="padding-top: 20px;">Cobertura</h2>
-          <p>Estamos cada vez mas cercas de nuestros clientes, cubriendo gran parte del territorio nacional.</p>
+          <p>Estamos cada vez mas cerca de nuestros clientes, cubriendo gran parte del territorio nacional.</p>
         </div>
         <div class="row">
           <div class="col-lg-6 video-box">
@@ -122,6 +132,8 @@
                 <li><i class="bi bi-check2-circle"></i> Coahuila.</li>
                 <li><i class="bi bi-check2-circle"></i> Nuevo León.</li>
                 <li><i class="bi bi-check2-circle"></i> Durango.</li>
+                <li><i class="bi bi-check2-circle"></i> Tepic.</li>
+                <li><i class="bi bi-check2-circle"></i> Sinaloa.</li>
               </ul>
 
             </div>
@@ -134,6 +146,10 @@
                 <li><i class="bi bi-check2-circle"></i> Queretaro.</li>
                 <li><i class="bi bi-check2-circle"></i> Puebla.</li>
                 <li><i class="bi bi-check2-circle"></i> Ciudad de Mexico.</li>
+                <li><i class="bi bi-check2-circle"></i> Colima.</li>
+                <li><i class="bi bi-check2-circle"></i> Aguascalientes.</li>
+                
+
               </ul>
 
             </div>

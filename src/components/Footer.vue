@@ -20,11 +20,12 @@
                     <div class="col-lg-4 col-md-6 footer-contact">
                         <h4>Contactanos</h4>
                         <p>
-                            A108 Adam Street <br>
+                            <!-- A108 Adam Street <br>
                             New York, NY 535022<br>
-                            United States <br><br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            United States <br><br> -->
+                            <strong>Teléfono:</strong> +52 (667) 199 5808 <br>
+                            <strong style="visibility: hidden;">Teléfono:</strong>  +52 (667) 375 4052<br>
+                            <strong>Email:</strong> contacto@grupopetromaximo.com<br>
                         </p>
 
                     </div>
@@ -33,11 +34,11 @@
                         <h3>PetroMaximo</h3>
                         <p>Comercializadora de hidrocarburos.</p>
                         <div class="social-links mt-3">
-                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                            <a href="https://www.facebook.com/petromaximooficial/" class="facebook"><i
+                            <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
+                            <a href="https://www.facebook.com/profile.php?id=100089340611799" target="_blank" class="facebook"><i
                                     class="bx bxl-facebook"></i></a>
-                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                            <a href="https://www.linkedin.com/company/grupo-petro-maximo/" class="linkedin"><i
+                            <!-- <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a> -->
+                            <a href="https://www.linkedin.com/in/grupo-petro-maximo/" target="_blank" class="linkedin"><i
                                     class="bx bxl-linkedin"></i></a>
                         </div>
                     </div>
@@ -48,7 +49,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; 2023<strong><span>Petro Maximo</span></strong>. Todos los derechos reservados
+                &copy; 2023 <strong><span>Petro Maximo</span></strong>. Todos los derechos reservados
             </div>
         </div>
     </footer><!-- End Footer -->
