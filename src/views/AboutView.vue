@@ -28,7 +28,8 @@
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>Grupo PetroMaximo</h3>
             <p class="fw-light">
-              Somos una empresa joven y dinámica dedicada a la comercialización de hidrocarburos, enfocada al mercado nacional
+              Somos una empresa joven y dinámica dedicada a la comercialización de hidrocarburos, enfocada al mercado
+              nacional
               de autoconsumos y estaciones de servicio que otorga ideas nuevas con servicios de valor agregado.
               Rompiendo
               los paradigmas de la comercialización tradicional, bajo un modelo de negocio más humano y cercano a
@@ -63,8 +64,8 @@
         </div>
 
         <div class="row">
-          <div class="col-md-6 col-lg-3 align-items-stretch" data-aos="fade-up" style="width: 25% !important;">
-            <div class="icon-box icon-box-pink" style="width: 100% !important;">
+          <div class="col-md-6 col-lg-3 align-items-stretch" data-aos="fade-up">
+            <div class="icon-box icon-box-pink">
 
               <div class="icon ">
                 <img src="assets/img/about/responsabilidad.png" class="img-fluid img-val" alt="">
