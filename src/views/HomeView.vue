@@ -10,7 +10,7 @@
           <h2 class="animate__animated animate__fadeInDown">Grupo PetroMaximo</h2>
           <p class="animate__animated animate__fadeInUp">
           <h4> Tu empresa de comercialización de hidrocarburos en México. Comprometidos con la mejora continúa,
-            con mira en la excelencia de servicio, calidad, legalidad y precio. 
+            con mira en la excelencia de servicio, calidad, legalidad y precio.
           </h4>
           </p>
           <!-- <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a> -->
@@ -125,53 +125,42 @@
             </a> -->
           </div>
 
-          <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
-            <div class="columna1">
-              <ul>
-                <li><i class=" bi bi-check2-circle"></i> Baja California.</li>
-                <li><i class="bi bi-check2-circle"></i> Sonora.</li>
-                <li><i class="bi bi-check2-circle"></i> Chihuahua.</li>
-                <li><i class="bi bi-check2-circle"></i> Coahuila.</li>
-                <li><i class="bi bi-check2-circle"></i> Nuevo León.</li>
-                <li><i class="bi bi-check2-circle"></i> Durango.</li>
-                <li><i class="bi bi-check2-circle"></i> Tepic.</li>
-                <li><i class="bi bi-check2-circle"></i> Sinaloa.</li>
-              </ul>
+
+
+          <div class="col-lg-6">
+            <div class="footer-top">
+              <div class="row">
+                <div class="col-lg-6 col-md-6 footer-links">
+                  <ul>
+                    <li><i class=" bi bi-check2-circle"></i> Baja California.</li>
+                    <li><i class="bi bi-check2-circle"></i> Sonora.</li>
+                    <li><i class="bi bi-check2-circle"></i> Chihuahua.</li>
+                    <li><i class="bi bi-check2-circle"></i> Coahuila.</li>
+                    <li><i class="bi bi-check2-circle"></i> Nuevo León.</li>
+                    <li><i class="bi bi-check2-circle"></i> Durango.</li>
+                    <li><i class="bi bi-check2-circle"></i> Tepic.</li>
+                    <li><i class="bi bi-check2-circle"></i> Sinaloa.</li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-6 col-md-6 footer-links">
+                  <ul>
+                    <li><i class="bi bi-check2-circle"></i> Jalisco.</li>
+                    <li><i class="bi bi-check2-circle"></i> San Luis Potosí.</li>
+                    <li><i class="bi bi-check2-circle"></i> Guanajuato.</li>
+                    <li><i class="bi bi-check2-circle"></i> Queretaro.</li>
+                    <li><i class="bi bi-check2-circle"></i> Puebla.</li>
+                    <li><i class="bi bi-check2-circle"></i> Ciudad de Mexico.</li>
+                    <li><i class="bi bi-check2-circle"></i> Colima.</li>
+                    <li><i class="bi bi-check2-circle"></i> Aguascalientes.</li>
+                  </ul>
+                </div>
+
+
+
+              </div>
 
             </div>
-
-            <div class="columna2">
-              <ul>
-                <li><i class="bi bi-check2-circle"></i> Jalisco.</li>
-                <li><i class="bi bi-check2-circle"></i> San Luis Potosí.</li>
-                <li><i class="bi bi-check2-circle"></i> Guanajuato.</li>
-                <li><i class="bi bi-check2-circle"></i> Queretaro.</li>
-                <li><i class="bi bi-check2-circle"></i> Puebla.</li>
-                <li><i class="bi bi-check2-circle"></i> Ciudad de Mexico.</li>
-                <li><i class="bi bi-check2-circle"></i> Colima.</li>
-                <li><i class="bi bi-check2-circle"></i> Aguascalientes.</li>
-                
-
-              </ul>
-
-            </div>
-
-
-
-            <!-- <div class="icon-box">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
-                occaecati cupiditate non provident</p>
-            </div>
-
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-                praesentium voluptatum deleniti atque</p>
-            </div> -->
-
           </div>
         </div>
 

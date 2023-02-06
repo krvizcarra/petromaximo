@@ -1,0 +1,130 @@
+[
+    {
+        "EntidadFederativaId": "01",
+        "Nombre": "Aguascalientes"
+    },
+    {
+        "EntidadFederativaId": "02",
+        "Nombre": "Baja California"
+    },
+    {
+        "EntidadFederativaId": "03",
+        "Nombre": "Baja California Sur"
+    },
+    {
+        "EntidadFederativaId": "04",
+        "Nombre": "Campeche"
+    },
+    {
+        "EntidadFederativaId": "05",
+        "Nombre": "Coahuila de Zaragoza"
+    },
+    {
+        "EntidadFederativaId": "06",
+        "Nombre": "Colima"
+    },
+    {
+        "EntidadFederativaId": "07",
+        "Nombre": "Chiapas"
+    },
+    {
+        "EntidadFederativaId": "08",
+        "Nombre": "Chihuahua"
+    },
+    {
+        "EntidadFederativaId": "09",
+        "Nombre": "Ciudad de México"
+    },
+    {
+        "EntidadFederativaId": "10",
+        "Nombre": "Durango"
+    },
+    {
+        "EntidadFederativaId": "11",
+        "Nombre": "Guanajuato"
+    },
+    {
+        "EntidadFederativaId": "12",
+        "Nombre": "Guerrero"
+    },
+    {
+        "EntidadFederativaId": "13",
+        "Nombre": "Hidalgo"
+    },
+    {
+        "EntidadFederativaId": "14",
+        "Nombre": "Jalisco"
+    },
+    {
+        "EntidadFederativaId": "15",
+        "Nombre": "México"
+    },
+    {
+        "EntidadFederativaId": "16",
+        "Nombre": "Michoacán de Ocampo"
+    },
+    {
+        "EntidadFederativaId": "17",
+        "Nombre": "Morelos"
+    },
+    {
+        "EntidadFederativaId": "18",
+        "Nombre": "Nayarit"
+    },
+    {
+        "EntidadFederativaId": "19",
+        "Nombre": "Nuevo León"
+    },
+    {
+        "EntidadFederativaId": "20",
+        "Nombre": "Oaxaca"
+    },
+    {
+        "EntidadFederativaId": "21",
+        "Nombre": "Puebla"
+    },
+    {
+        "EntidadFederativaId": "22",
+        "Nombre": "Querétaro"
+    },
+    {
+        "EntidadFederativaId": "23",
+        "Nombre": "Quintana Roo"
+    },
+    {
+        "EntidadFederativaId": "24",
+        "Nombre": "San Luis Potosí"
+    },
+    {
+        "EntidadFederativaId": "25",
+        "Nombre": "Sinaloa"
+    },
+    {
+        "EntidadFederativaId": "26",
+        "Nombre": "Sonora"
+    },
+    {
+        "EntidadFederativaId": "27",
+        "Nombre": "Tabasco"
+    },
+    {
+        "EntidadFederativaId": "28",
+        "Nombre": "Tamaulipas"
+    },
+    {
+        "EntidadFederativaId": "29",
+        "Nombre": "Tlaxcala"
+    },
+    {
+        "EntidadFederativaId": "30",
+        "Nombre": "Veracruz de Ignacio de la Llave"
+    },
+    {
+        "EntidadFederativaId": "31",
+        "Nombre": "Yucatán"
+    },
+    {
+        "EntidadFederativaId": "32",
+        "Nombre": "Zacatecas"
+    }
+]

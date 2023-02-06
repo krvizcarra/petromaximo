@@ -38,8 +38,9 @@
 
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-gas-pump"></i></div>
-                            <p class="description">Contamos con 2 modalidades: entregamos el producto hasta su patio o estación
-                                 de servicio y libre abordo (LAB),  usted mismo puede pasar a cargar el producto.</p>
+                            <p class="description">Contamos con 2 modalidades: entregamos el producto hasta su patio o
+                                estación
+                                de servicio y libre abordo (LAB), usted mismo puede pasar a cargar el producto.</p>
                         </div>
 
                     </div>
@@ -110,8 +111,8 @@
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="#">Libre a Bordo</a></h5>
-                                <p class="card-text">Usted podra pasar por su producto, reduciendo así los costo de su
-                                    combustible. Optimizando sus procesos de traslados.</p>
+                                <p class="card-text">Usted podrá pasar a cargar su producto,  
+                                    reduciendo así el costo de adquisición del combustible. Optimizando su proceso de traslado y logística.</p>
 
                             </div>
                         </div>
@@ -123,8 +124,8 @@
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="#">Pusto en Sitio</a></h5>
-                                <p class="card-text">Nosotros nos encargamos de toda la logistica para poner su producto
-                                    hasta su sitio o estación de servicio.</p>
+                                <p class="card-text">Nosotros nos encargamos de toda la logística de entrega. Llegando en tiempo y forma con el producto,
+                                     hasta su patio o estación de servicio.</p>
                             </div>
                         </div>
 
@@ -137,8 +138,8 @@
                             <div class="card-body">
                                 <h5 class="card-title"><a href="#">Asesoria crediticia</a></h5>
                                 <p class="card-text">Contamos con asesoría integral para la obtención crediticia,
-                                     a través de una SOFOM, la cual brinda el respaldo capital para distribuir y 
-                                     administrar de mejor manera sus recursos.
+                                    a través de una SOFOM, la cual brinda el respaldo capital para distribuir y
+                                    administrar de mejor manera sus recursos.
                                 </p>
                             </div>
                         </div>
@@ -147,12 +148,15 @@
                     <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
                         <div class="card">
                             <div class="card-img">
-                                <img src="assets/img/services/trabajo_gasolinera.png" alt="...">
+                                <img src="assets/img/services/trabajo_gasolinera.jpg" alt="...">
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title"><a href="#">Capacitación a personal en estaciones de servicio</a></h5>
-                                <p class="card-text"> Proporcionamos capacitación a personal de piso para mejorar la atención 
-                                    al cliente, aumentar la venta de aceites y aditivos, asi como mejorar la percepción de ingresos. </p>
+                                <h5 class="card-title"><a href="#">Capacitación a personal en estaciones de servicio</a>
+                                </h5>
+                                <p class="card-text"> Proporcionamos capacitación a personal de piso para mejorar la
+                                    atención
+                                    al cliente, aumentar la venta de aceites y aditivos, asi como mejorar la percepción
+                                    de ingresos. </p>
 
                             </div>
                         </div>

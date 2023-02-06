@@ -11,7 +11,7 @@ module.exports = {
     index: {
       // entry for the page
       entry: "src/main.js",
-      title: "My Title",
+      title: "PetroMaximo",
     },
   },
 };

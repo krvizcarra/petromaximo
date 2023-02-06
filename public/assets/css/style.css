@@ -351,8 +351,8 @@ h6,
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
-  background-size: 100vw 100vh;
-    background-position-y: bottom;
+  /* background-size: 100vw 100vh; */
+    background-position-y: -289px;
 }
 
 #hero::before {
