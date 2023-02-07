@@ -141,7 +141,7 @@
 
                             <div class="text-center">
                                 <button :disabled="enviar" @click="enviarCorreo($event)" type="submit">Enviar
-                                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true" :hidden="!enviar"></span>
+                                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true" v-if="enviar"></span>
                                 </button>
                             </div>
                         </form>
@@ -212,7 +212,6 @@ export default {
         async enviarCorreo(evento) {
             evento.preventDefault();
             // console.log(this.formulario);
-            // this.enviar = true;
             for (const property in this.formulario) {
                 if (!this.formulario[property]) {
                     Swal.fire({
@@ -224,8 +223,10 @@ export default {
                     return;
                 }
             }
+            this.enviar = true;
 
-            await axios.post('http://grupopetromaximo.com:3000/api/correos/enviar',{
+          
+            axios.post('http://grupopetromaximo.com:3000/api/correos/enviar',{
                 "destinatario": "contacto.petromaximo@gmail.com",
                 "asunto": `Cotización pagina: ${this.formulario.nombre}`,
                 "template": `<table border="1">
